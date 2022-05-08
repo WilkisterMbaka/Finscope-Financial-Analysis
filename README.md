@@ -1,1 +1,20 @@
 # Finscope-Financial-Analysis
+
+## **Description**
+Financial Inclusion remains one of the main obstacles to economic and human development in Africa. For example, across Kenya, Rwanda, Tanzania, and Uganda only 9.1 million adults (or 13.9% of the adult population) have access to or use a commercial bank account.
+
+Access to bank accounts enables households to save and facilitate payments while also helping businesses build up their credit-worthiness and improve their access to other financial services. Therefore, access to bank accounts is an essential contributor to long-term economic growth.
+
+**Research Question**
+
+* How we can determine which individuals are most likely to have or use a bank account
+
+## **Technologies**
+Project was created with:
+* Google Colab
+* Python
+* Pandas, Numpy and Matplotlib libraries
+
+## **Dataset**
+* Column Definitions [Link](http://bit.ly/VariableDefinitions)
+* Financial Dataset [Link](https://drive.google.com/file/d/13DXF2CFWQLeYxxHFekng8HJnH_jtbfpN/view)
